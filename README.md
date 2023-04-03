@@ -1,9 +1,12 @@
 # kickstarter-analysis
 Performing data analysis on Kickstarter to uncover trends
 - Overview of Project
-Louise’s fundraising event for her play almost reached its goal. The Kickstarter data set will show the Outcomes based on goals and outcomes based on launched dates and there funding goals.
+- 
+- Louise’s fundraising event for her play almost reached its goal. The Kickstarter data set will show the Outcomes based on goals and outcomes based on launched dates and there funding goals.
 
 - Analysis and Challenges
+
+
 ![Theater_Outcome_vs_Launch_PT](https://user-images.githubusercontent.com/113808332/229390385-60bf9af2-5b3d-41d4-a344-266208e571fe.png)
 
 

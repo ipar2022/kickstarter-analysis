@@ -6,6 +6,12 @@ Performing data analysis on Kickstarter to uncover trends
 
 - Analysis and Challenges
 
+	Within the Kickstarter spreadsheet the years column was created based on the "Date Created Conversion" column.
+	A pivot table was created with filters, columns, rows, and values.
+	The theater campaign results were sorted in descending order.
+	A line chart was created showing the project results.
+The challenges a person can experience with an excel spreadsheet could be that the formulas are very precise. If you don’t use PEMDAS your results can be random. When you use the exact match symbol your code will pull results that match the test results required.
+
 
 ![Theater_Outcome_vs_Launch_PT](https://user-images.githubusercontent.com/113808332/229390385-60bf9af2-5b3d-41d4-a344-266208e571fe.png)
 

@@ -11,17 +11,22 @@ Performing data analysis on Kickstarter to uncover trends
 	The theater campaign results were sorted in descending order.
 	A line chart was created showing the project results.
 	
-The challenges a person can experience with an excel spreadsheet could be that the formulas are very precise. 
-If you don’t use PEMDAS your results can be random. When you use the exact match symbol your code will pull results that match the test results required.
 
-
+Pivot table
 ![Theater_Outcome_vs_Launch_PT](https://user-images.githubusercontent.com/113808332/229390385-60bf9af2-5b3d-41d4-a344-266208e571fe.png)
 
 
+
+Pivot line chart theater out comes based on lauch date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/113808332/229390407-87c70087-3c55-4191-aba8-956a3cf7b436.png)
 
 
+Pivot line chart outcomes based on goal
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/113808332/229390429-361bd1c2-89bc-471c-bbb7-ce17425755fe.png)
+
+
+- The challenges a person can experience with an excel spreadsheet could be that the formulas are very precise. 
+If you don’t use PEMDAS your results can be random. When you use the exact match symbol your code will pull results that match the test results required.
 
 
 

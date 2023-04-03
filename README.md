@@ -11,7 +11,7 @@ Performing data analysis on Kickstarter to uncover trends
 	The theater campaign results were sorted in descending order.
 	A line chart was created showing the project results.
 	
-- Pivot table
+- Pivot table theater outcome results
 
 
 
@@ -19,7 +19,7 @@ Performing data analysis on Kickstarter to uncover trends
 
 
 
-- Pivot line chart theater out comes based on lauch date
+- Pivot line chart theater outcomes based on lauch date
 
 
 

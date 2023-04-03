@@ -52,4 +52,5 @@ If you don’t use PEMDAS your results can be random. When you use the exact mat
 •	With the rise of streaming services it can be difficult to determine when people want to stay home and watch a play or go in person to the theater
 
 •	What are some other possible tables and/or graphs that we could create?
-•	A pie chart.
+
+- 	A pie chart.

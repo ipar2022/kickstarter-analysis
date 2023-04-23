@@ -46,7 +46,7 @@ If you don’t use PEMDAS your results can be random. When you use the exact mat
 -	December would not be a good launch date based on the results.
 
 -	What can you conclude about the Outcomes based on Goals?
--	The fund raising results are reached when the funding goal are lower. However, there is an exception to the funding goal of $35,000 – $44,999  
+-	The fund raising results are reached when the funding goals are lower. However, there is an exception to the funding goal of $35,000 – $44,999  
 
 -	What are some limitations of this dataset?
 -	With the rise of streaming services it can be difficult to determine when people want to stay home and watch a play or go in person to the theater

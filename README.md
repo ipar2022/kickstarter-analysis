@@ -40,7 +40,7 @@ If you don’t use PEMDAS your results can be random. When you use the exact mat
 
 
 - Results
--      What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+-	What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 
 -	May and June are the most successful months for theater.
 -	December would not be a good launch date based on the results.

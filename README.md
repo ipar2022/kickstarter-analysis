@@ -1,7 +1,7 @@
 # kickstarter-analysis
 Performing data analysis on Kickstarter to uncover trends
 - Overview of Project
-- 
+
 - Louise’s fundraising event for her play almost reached its goal. The Kickstarter data set will show the Outcomes based on goals and outcomes based on launched dates and there funding goals.
 
 - Analysis and Challenges
